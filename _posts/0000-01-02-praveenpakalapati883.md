@@ -1,4 +1,4 @@
 layout: slide
 title: "Welcome to our second slide!"
-your text
+"learning a git hub"-praveen
 Use the left arrow to go back!
